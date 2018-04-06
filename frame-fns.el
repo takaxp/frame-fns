@@ -3,7 +3,7 @@
 ;; Filename: frame-fns.el
 ;; Description: Non-interactive frame and window functions.
 ;; Author: Drew Adams
-;; Maintainer: Drew Adams (concat "drew.adams" "@" "oracle" ".com")
+;; Maintainer: Drew Adams "drew.adams" "at" "oracle" ".com"
 ;; Copyright (C) 1996-2018, Drew Adams, all rights reserved.
 ;; Created: Tue Mar  5 16:15:50 1996
 ;; Version: 0
